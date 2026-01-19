@@ -111,15 +111,15 @@ SENATI---TEAM/
 
 ### Paleta de Colores
 
-| Color | Hex Code | Uso | Preview |
-|-------|----------|-----|---------|
-| **Rojo SENATI** | `#e30613` | Principal, títulos, botones | ![#e30613](https://via.placeholder.com/50x20/e30613/e30613.png) |
-| **Rojo Oscuro** | `#c00510` | Hover de botones | ![#c00510](https://via.placeholder.com/50x20/c00510/c00510.png) |
-| **Azul Primario** | `#1e3c72` | Navbar, fondos | ![#1e3c72](https://via.placeholder.com/50x20/1e3c72/1e3c72.png) |
-| **Azul Secundario** | `#2a5298` | Degradados navbar | ![#2a5298](https://via.placeholder.com/50x20/2a5298/2a5298.png) |
-| **Azul Banner** | `#0A39E4` | Banner FAQ | ![#0A39E4](https://via.placeholder.com/50x20/0A39E4/0A39E4.png) |
-| **Gris Fondo** | `#efefef` | Footer background | ![#efefef](https://via.placeholder.com/50x20/efefef/efefef.png) |
-| **Gris Texto** | `#85929E` | Enlaces footer | ![#85929E](https://via.placeholder.com/50x20/85929E/85929E.png) |
+| Color | Hex Code | Uso |
+|-------|----------|-----|
+| **Rojo SENATI** | `#e30613` | Principal, títulos, botones | 
+| **Rojo Oscuro** | `#c00510` | Hover de botones | 
+| **Azul Primario** | `#1e3c72` | Navbar, fondos | 
+| **Azul Secundario** | `#2a5298` | Degradados navbar | 
+| **Azul Banner** | `#0A39E4` | Banner FAQ | 
+| **Gris Fondo** | `#efefef` | Footer background | 
+| **Gris Texto** | `#85929E` | Enlaces footer | 
 
 ### Variables CSS
 
