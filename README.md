@@ -407,7 +407,5 @@ JavaScript funcional con:
 
 ---
 
-## 👥 Equipo de Desarrollo
 
-**Equipo dinamita** 
 
